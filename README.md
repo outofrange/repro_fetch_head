@@ -1,5 +1,5 @@
-Bug description
-===============
+Conflicting bug description
+===========================
 
 I encountered a bug where `git` won't correctly set replace `FETCH_HEAD` but append to it, leading to duplicate entries and multiple pulls / merges.
 This can mess up local branches quite badly and is a potential source for merge conflicts.
